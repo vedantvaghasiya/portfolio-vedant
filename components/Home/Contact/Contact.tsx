@@ -2,7 +2,7 @@
 
 import React, { useState, useRef } from 'react'
 import { BiEnvelope, BiMap, BiPhone } from 'react-icons/bi'
-import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import emailjs from '@emailjs/browser';
 
 const Contact = () => {
