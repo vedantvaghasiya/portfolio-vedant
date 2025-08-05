@@ -90,7 +90,7 @@ const Skills = () => {
         whileInView="visible"
         viewport={{ once: true, amount: 0.2 }}
         className="flex flex-wrap justify-center gap-6">
-        {skills.map((skill, index) => (
+        {skills.map((skill) => (
           <motion.div
             key={skill.name}
             variants={itemVariants}
