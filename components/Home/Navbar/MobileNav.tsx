@@ -1,5 +1,4 @@
 import { NavLinks } from '@/constant/constant'
-import Link from 'next/link'
 import React from 'react'
 import { CgClose } from 'react-icons/cg'
 
